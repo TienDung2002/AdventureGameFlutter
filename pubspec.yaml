@@ -19,3 +19,24 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+
+  assets:
+  # Main background
+    - assets/tiles/
+    - assets/images/Palm Tree Island/Sprites/Terrain/
+
+  # Main character
+    - assets/images/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/09-Idle Sword/
+    - assets/images/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/10-Run Sword/
+    - assets/images/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/11-Jump Sword/
+    - assets/images/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/12-Fall Sword/
+    - assets/images/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/13-Ground Sword/
+    - assets/images/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/14-Hit Sword/
+    - assets/images/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/15-Attack 1/
+    - assets/images/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/16-Attack 2/
+    - assets/images/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/17-Attack 3/
+    - assets/images/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/18-Air Attack 1/
+    - assets/images/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/19-Air Attack 2/
+    - assets/images/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/20-Throw Sword/
+
+
