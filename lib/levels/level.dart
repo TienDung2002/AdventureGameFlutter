@@ -6,11 +6,13 @@ import 'package:pixel_adventure_game/actors/crustycrew.dart';
 import 'package:pixel_adventure_game/actors/player.dart';
 
 class Level extends World {
+  final Player player;
+  // final CrustyCrew crustyCrew;
   final String levelName;  
   late TiledComponent level;
 
   // Constructor
-  Level({required this.levelName});
+  Level({required this.levelName, required this.player});
 
 
   @override
@@ -25,16 +27,13 @@ class Level extends World {
       switch (spawnPoint.class_) {
         // kiểm tra class của spawnPoint và thêm player vào spawnpoint
         case 'Player':
-          final player = Player(playerPosition: Vector2(spawnPoint.x, spawnPoint.y));
+          player.position = Vector2(spawnPoint.x, spawnPoint.y);
           add(player);
           break;
-        case 'CrustyCrew':
-          final crustyCrew = CrustyCrew(
-            position: Vector2(spawnPoint.x, spawnPoint.y),
-            basePath: 'The Crusty Crew/Sprites/Fierce Tooth/' // Crabby - Fierce Tooth - Pink Star
-          );
-          add(crustyCrew);
-          break;
+        // case 'CrustyCrew':
+        //   crustyCrew.position = Vector2(spawnPoint.x, spawnPoint.y);
+        //   add(crustyCrew);
+        //   break;
         default:
       }
     }

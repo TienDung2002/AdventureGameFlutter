@@ -23,6 +23,7 @@ flutter:
   assets:
   # Main background
     - assets/tiles/
+    - assets/images/HUD/
     - assets/images/Palm Tree Island/Sprites/Terrain/
 
   # Main character

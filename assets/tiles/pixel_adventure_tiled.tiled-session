@@ -14,7 +14,7 @@
                 2
             ],
             "scale": 1.5,
-            "selectedLayer": 1,
+            "selectedLayer": 0,
             "viewCenter": {
                 "x": 318.99999999999994,
                 "y": 197
@@ -25,7 +25,7 @@
                 2
             ],
             "scale": 1.45171875,
-            "selectedLayer": 1,
+            "selectedLayer": 0,
             "viewCenter": {
                 "x": 319.96555806694647,
                 "y": 184.2643418361856
@@ -43,13 +43,14 @@
     "map.tileWidth": 16,
     "map.width": 40,
     "openFiles": [
-        "PA_Terrain.tsx",
-        "Level_01.tmx"
+        "Level_01.tmx",
+        "Level_02.tmx"
     ],
     "project": "pixel_adventure_tiled.tiled-project",
     "recentFiles": [
-        "PA_Terrain.tsx",
-        "Level_01.tmx"
+        "Level_02.tmx",
+        "Level_01.tmx",
+        "PA_Terrain.tsx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.tileSize": {
