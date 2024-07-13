@@ -39,4 +39,42 @@ flutter:
     - assets/images/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/19-Air Attack 2/
     - assets/images/Captain Clown Nose/Sprites/Captain Clown Nose/Captain Clown Nose with Sword/20-Throw Sword/
 
+  # Crusty Crew
+    # Crabby
+    - assets/images/The Crusty Crew/Sprites/Crabby/01-Idle/
+    - assets/images/The Crusty Crew/Sprites/Crabby/02-Run/
+    - assets/images/The Crusty Crew/Sprites/Crabby/03-Jump/
+    - assets/images/The Crusty Crew/Sprites/Crabby/04-Fall/
+    - assets/images/The Crusty Crew/Sprites/Crabby/05-Ground/
+    - assets/images/The Crusty Crew/Sprites/Crabby/06-Anticipation/
+    - assets/images/The Crusty Crew/Sprites/Crabby/07-Attack/
+    - assets/images/The Crusty Crew/Sprites/Crabby/08-Hit/
+    - assets/images/The Crusty Crew/Sprites/Crabby/09-Dead hit/
+    - assets/images/The Crusty Crew/Sprites/Crabby/10-Dead Ground/
+    - assets/images/The Crusty Crew/Sprites/Crabby/11-Attack Effect/
+    # Fierce Tooth
+    - assets/images/The Crusty Crew/Sprites/Fierce Tooth/01-Idle/
+    - assets/images/The Crusty Crew/Sprites/Fierce Tooth/02-Run/
+    - assets/images/The Crusty Crew/Sprites/Fierce Tooth/03-Jump/
+    - assets/images/The Crusty Crew/Sprites/Fierce Tooth/04-Fall/
+    - assets/images/The Crusty Crew/Sprites/Fierce Tooth/05-Ground/
+    - assets/images/The Crusty Crew/Sprites/Fierce Tooth/06-Anticipation/
+    - assets/images/The Crusty Crew/Sprites/Fierce Tooth/07-Attack/
+    - assets/images/The Crusty Crew/Sprites/Fierce Tooth/08-Hit/
+    - assets/images/The Crusty Crew/Sprites/Fierce Tooth/09-Dead hit/
+    - assets/images/The Crusty Crew/Sprites/Fierce Tooth/10-Dead Ground/
+    - assets/images/The Crusty Crew/Sprites/Fierce Tooth/11-Attack Effect/
+    # Pink Star
+    - assets/images/The Crusty Crew/Sprites/Pink Star/01-Idle/
+    - assets/images/The Crusty Crew/Sprites/Pink Star/02-Run/
+    - assets/images/The Crusty Crew/Sprites/Pink Star/03-Jump/
+    - assets/images/The Crusty Crew/Sprites/Pink Star/04-Fall/
+    - assets/images/The Crusty Crew/Sprites/Pink Star/05-Ground/
+    - assets/images/The Crusty Crew/Sprites/Pink Star/06-Anticipation/
+    - assets/images/The Crusty Crew/Sprites/Pink Star/07-Attack/
+    - assets/images/The Crusty Crew/Sprites/Pink Star/08-Hit/
+    - assets/images/The Crusty Crew/Sprites/Pink Star/09-Dead hit/
+    - assets/images/The Crusty Crew/Sprites/Pink Star/10-Dead Ground/
+    - assets/images/The Crusty Crew/Sprites/Pink Star/11-Attack Effect/
+
 

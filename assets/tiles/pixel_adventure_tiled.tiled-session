@@ -3,18 +3,37 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "Level_01.tmx",
     "expandedProjectPaths": [
+        "."
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
         "Level_01.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
             "scale": 1.5,
-            "selectedLayer": 0,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 327.99999999999994,
+                "x": 318.99999999999994,
                 "y": 197
             }
+        },
+        "Level_02.tmx": {
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 1.45171875,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 319.96555806694647,
+                "y": 184.2643418361856
+            }
+        },
+        "PA_Terrain.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
         }
     },
     "last.imagePath": "E:/Workspace/Mobile_Dev/Flutter/Games/AdventureGameFlutter/assets/images/Palm Tree Island/Sprites/Terrain",
@@ -24,9 +43,12 @@
     "map.tileWidth": 16,
     "map.width": 40,
     "openFiles": [
+        "PA_Terrain.tsx",
+        "Level_01.tmx"
     ],
     "project": "pixel_adventure_tiled.tiled-project",
     "recentFiles": [
+        "PA_Terrain.tsx",
         "Level_01.tmx"
     ],
     "tileset.lastUsedFormat": "tsx",
